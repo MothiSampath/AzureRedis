@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: redis-service
+  redis:
+    host: localhost
+    port: 6379
+
+
+
+
